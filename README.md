@@ -1,2 +1,2 @@
 # JPM-Loan-Default-Prediction-with-Loss
-Probability Prediction of Customer Defaults Loan and Probable Loss on Loan
+### Probability Prediction of Customer Defaults Loan with expected loss on Loan.
